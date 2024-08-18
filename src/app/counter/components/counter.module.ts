@@ -7,7 +7,6 @@ import { CounterComponent } from "./counter.component";
   ],
   exports: [
     CounterComponent
-  ]
-
+  ],
 })
 export class CounterModule {}
